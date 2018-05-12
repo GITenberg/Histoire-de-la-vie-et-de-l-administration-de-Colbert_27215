@@ -1,0 +1,30 @@
+_repo: Histoire-de-la-vie-et-de-l-administration-de-Colbert_27215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clément, Pierre
+    alias: Clement, Pierre
+    birthdate: 1809
+    deathdate: 1870
+    gutenberg_agent_id: '32546'
+    url: http://www.gutenberg.org/2009/agents/32546
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27215'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colbert, Jean-Baptiste, 1619-1683'
+- !lcsh 'Fouquet, Nicolas, 1615-1680'
+- !lcc 'DC'
+- !lcsh 'France -- Politics and government -- 17th century'
+title: Histoire de la vie et de l'administration de Colbert
+url: http://www.gutenberg.org/ebooks/27215
